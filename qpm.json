@@ -28,7 +28,7 @@
         "pwsh ./scripts/copy.ps1 --release"
       ]
     },
-    "ndk": "^27.2.12479018",
+    "ndk": "^29",
     "qmodIncludeDirs": [
       "./build",
       "./extern/libs"
